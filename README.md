@@ -141,6 +141,8 @@ users.Should().HaveCount(1);
 |---|---|
 | [Swevo.HttpClient.TestKit](https://github.com/Swevo/HttpClient.TestKit) | This package |
 | [Swevo.MassTransit.TestKit](https://github.com/Swevo/MassTransit.RequestClient.TestKit) | Fake MassTransit request clients |
+| [AutoLog.Generator](https://github.com/Swevo/AutoLog.Generator) | Compile-time high-performance `LoggerMessage.Define` logging |
+| [AutoHttpClient.Generator](https://github.com/Swevo/AutoHttpClient.Generator) | Compile-time typed HTTP client. AOT-safe Refit alternative |
 
 ## License
 
