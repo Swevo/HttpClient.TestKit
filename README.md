@@ -1,6 +1,7 @@
 # Swevo.HttpClient.TestKit
 
-[![NuGet](https://img.shields.io/nuget/v/Swevo.HttpClient.TestKit.svg)](https://www.nuget.org/packages/Swevo.HttpClient.TestKit)
+[![NuGet](https://img.shields.io/nuget/v/Swevo.HttpClient.TestKit
+[![NuGet Downloads](https://img.shields.io/nuget/dt/Swevo.HttpClient.TestKit.svg)](https://www.nuget.org/packages/Swevo.HttpClient.TestKit).svg)](https://www.nuget.org/packages/Swevo.HttpClient.TestKit)
 [![CI](https://github.com/Swevo/HttpClient.TestKit/actions/workflows/build.yml/badge.svg)](https://github.com/Swevo/HttpClient.TestKit/actions)
 
 Unit-test `HttpClient` calls without mocking frameworks. Fluent setup, JSON responses, request recording, and built-in verification. Zero dependencies.
