@@ -145,6 +145,15 @@ users.Should().HaveCount(1);
 | [AutoLog.Generator](https://github.com/Swevo/AutoLog.Generator) | Compile-time high-performance `LoggerMessage.Define` logging |
 | [AutoHttpClient.Generator](https://github.com/Swevo/AutoHttpClient.Generator) | Compile-time typed HTTP client. AOT-safe Refit alternative |
 
+## Related Packages
+
+| Package | Downloads | Description |
+|---|---|---|
+| [Swevo.MassTransit.TestKit](https://www.nuget.org/packages/Swevo.MassTransit.TestKit) | [![Downloads](https://img.shields.io/nuget/dt/Swevo.MassTransit.TestKit.svg)](https://www.nuget.org/packages/Swevo.MassTransit.TestKit) | Lightweight test doubles for MassTransit request/response and publish patterns |
+| [Swevo.AutoTestData](https://www.nuget.org/packages/Swevo.AutoTestData) | [![Downloads](https://img.shields.io/nuget/dt/Swevo.AutoTestData.svg)](https://www.nuget.org/packages/Swevo.AutoTestData) | Compile-time test data builders for  |
+
+---
+
 ## License
 
 MIT © 2026 Justin Bannister
