@@ -4,6 +4,7 @@
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Swevo.HttpClient.TestKit.svg)](https://www.nuget.org/packages/Swevo.HttpClient.TestKit)
 [![CI](https://github.com/Swevo/HttpClient.TestKit/actions/workflows/build.yml/badge.svg)](https://github.com/Swevo/HttpClient.TestKit/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![.NET 10 Ready](https://img.shields.io/badge/.NET-10.0-512BD4?logo=dotnet)](#)
 
 Unit-test `HttpClient` calls without mocking frameworks. Fluent setup, JSON responses, request recording, and built-in verification. Zero dependencies.
 
